@@ -22,11 +22,9 @@ This project uses **HTML**, **CSS**, and **JavaScript**, with UI assets original
 
 ---
 
-
-
 ## 🖼️ Example Screenshot
 
-![Ghost Hunting Game Example]([https://github.com/XenonBlack999/Ghost-Hunting-Game/raw/main/example.png](https://github.com/XenonBlack999/Ghost-Hunting-Game/blob/main/ghost_hunting.png))
+![Ghost Hunting Game Example](https://github.com/XenonBlack999/Ghost-Hunting-Game/raw/main/ghost_hunting.png)
 
 > Example image shows the main game interface with ghosts, score, and timer.
 
@@ -39,4 +37,3 @@ This project uses **HTML**, **CSS**, and **JavaScript**, with UI assets original
 ```bash
 git clone https://github.com/XenonBlack999/Ghost-Hunting-Game.git
 cd Ghost-Hunting-Game
-
